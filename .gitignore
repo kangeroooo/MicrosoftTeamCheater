@@ -1,0 +1,4 @@
+# Ignore all eclipse files
+/.settings/*
+.classpath
+.project
